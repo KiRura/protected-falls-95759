@@ -1,0 +1,15 @@
+{
+  "name": "protected-falls-95759",
+  "version": "1.0.0",
+  "description": "Bot for Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Example <xxx@example.com>",
+ "license": "ISC",
+ "engines": {
+   "node": "16.x"
+ }
+}
